@@ -1,0 +1,11 @@
+{
+  "name": "steam-checker",
+  "version": "1.0.0",
+  "description": "Steam checker",
+  "main": "checker.js",
+  "scripts": {
+    "test": "node checker.js"
+  },
+  "author": "GNULetik",
+  "license": "ISC"
+}
