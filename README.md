@@ -12,5 +12,5 @@ Make sure you have libnotify and nodejs installed :)
 
 ## How it works ?
 
-This software connects to Steam API and checks if the game is avaible on linux every 5 seconds 
+This software connects to the Steam API and checks if the game is avaible on linux every 5 seconds 
 It use nodeJS, request module, and libnotify module
