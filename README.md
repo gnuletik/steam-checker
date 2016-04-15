@@ -1,5 +1,5 @@
 # steam-checker
-Tool to have a notification when a game is avaible on linux
+Tool to have a notification when a game is available on linux
 
 ## How to use ?
 
