@@ -7,9 +7,9 @@ In a terminal
 ```
 git clone https://github.com/GNUletik/steam-checker.git && cd steam-checker
 ```
+```
 ./checker --help
 ```
-
 
 
 Make sure you have libnotify and nodejs installed :)
