@@ -5,8 +5,12 @@ Tool to be notified when a game is available on linux
 
 In a terminal
 ```
-git clone https://github.com/GNUletik/steam-checker.git && cd steam-checker && node checker.js
+git clone https://github.com/GNUletik/steam-checker.git && cd steam-checker
 ```
+./checker --help
+```
+
+
 
 Make sure you have libnotify and nodejs installed :)
 
